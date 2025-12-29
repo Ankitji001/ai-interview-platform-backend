@@ -24,5 +24,5 @@ Overall Feedback:
 Promising candidate with scope to improve.
     `,
     score: 6
-  };
+  };    
 };
